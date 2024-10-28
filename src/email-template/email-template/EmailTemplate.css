@@ -1,0 +1,38 @@
+/* EmailTemplate.css */
+.email-container {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    border: 1px solid #ddd;
+    padding: 20px;
+  }
+  
+  .email-title {
+    color: #333;
+    text-align: center;
+  }
+  
+  .email-content {
+    color: #555;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .email-button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .email-footer {
+    color: #888;
+    font-size: 12px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
